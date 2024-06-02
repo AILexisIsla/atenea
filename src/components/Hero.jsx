@@ -39,7 +39,7 @@ const Hero = () => {
           La revolución ya comenzó. Si todavía no está usando Inteligencia Artificial en su trabajo, es el momento de hacerlo. ¿Ha pensado en “ChatGPT” para su empresa? Eso es una fracción de lo que su empresa obtiene con Atenea ®.
           </p>
           <Button href="/pricing" white>
-            Empieza ahora
+            <a href="https://www.atenea.ai/">Empieza ahora</a>
           </Button>
         </div>
         <div className="relative max-w-[23rem] mx-auto md:max-w-5xl xl:mb-24">

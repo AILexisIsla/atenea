@@ -29,7 +29,7 @@ const PricingList = () => {
 
           <Button
             className="w-full mb-6"
-            href={item.price ? "/pricing" : "https://www.atenea.ai/https://alexisislaportfolio3d.netlify.app/"}
+            href={item.price ? "/pricing" : "https://www.atenea.ai"}
             white={!!item.price}
           >
             {item.price ? "Get started" : "contáctanos"}

@@ -59,13 +59,13 @@ export const navigation = [
   },
   {
     id: "4",
-    title: "New account",
+    title: "Nueva cuenta",
     url: "#signup",
     onlyMobile: true,
   },
   {
     id: "5",
-    title: "Sign in",
+    title: "Registrarse",
     url: "#login",
     onlyMobile: true,
   },
@@ -214,8 +214,8 @@ export const pricing = [
     features: [
       "Atenea ® trabaja con sus documentos internos",
       "Personalized: respondiendo preguntas",
-      "resumiendo, analizando, comparando, redactando",
-      "responde a cualquier petición que le haga",
+      "Resumiendo, analizando, comparando, redactando",
+      "Responde a cualquier petición que le haga",
     ],
   },
   {

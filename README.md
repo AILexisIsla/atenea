@@ -1,8 +1,7 @@
 <div align="center">
   <br />
     <a href="#" target="_blank">
-      <img src=".src/assets/hero
-/hero-background.jpg
+      <img src="robot.jpg
 " alt="Project Banner">
     </a>
   <br />
